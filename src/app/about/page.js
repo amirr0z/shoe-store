@@ -19,26 +19,24 @@ export default function About() {
         <h3 href="/">Shoe Store</h3>
       </div>
       <p className="first-letter:font-extrabold first-letter:text-xl">
-        {`Stride into a world of innovation and style with VelociSoles, a
+        Stride into a world of innovation and style with VelociSoles, a
         visionary shoe company redefining the boundaries of footwear. Our
         passion lies in the fusion of cutting-edge technology and timeless
         design, ensuring every step is a statement. From our sustainable
         materials to ergonomic engineering, VelociSoles is not just a brand;
-        it's a commitment to comfort, fashion, and a sustainable future. Walk
-        confidently, stand uniquely — experience the extraordinary with
-        VelociSoles.`}
+        it&apos;s a commitment to comfort, fashion, and a sustainable future.
+        Walk confidently, stand uniquely — experience the extraordinary with
+        VelociSoles.
       </p>
       <p className="first-letter:font-extrabold first-letter:text-xl">
-        {
-          "At SoleCrafters, we don't just make shoes; we craft experiences\
-                for your feet. With an unwavering dedication to quality and\
-                craftsmanship, SoleCrafters brings forth a diverse collection\
-                that seamlessly blends elegance and comfort. From urban\
-                explorers to trendsetters, our footwear caters to all walks of\
-                life, ensuring that each pair tells a story. Immerse yourself in\
-                the artistry of shoemaking; step into SoleCrafters, where every\
-                shoe is a testament to the perfect union of style and substance."
-        }
+        At SoleCrafters, we don&apos;t just make shoes; we craft experiences for
+        your feet. With an unwavering dedication to quality and craftsmanship,
+        SoleCrafters brings forth a diverse collection that seamlessly blends
+        elegance and comfort. From urban explorers to trendsetters, our footwear
+        caters to all walks of life, ensuring that each pair tells a story.
+        Immerse yourself in the artistry of shoemaking; step into SoleCrafters,
+        where every shoe is a testament to the perfect union of style and
+        substance.
       </p>
     </div>
   );
