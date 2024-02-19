@@ -39,11 +39,12 @@ export default function Home() {
           Bartholomew Footworthy, FootElegance quickly became synonymous with
           unrivaled craftsmanship. Blending secret family leather treatments and
           an unwavering passion, the brand soared to global fame. From the
-          roaring twenties&apos; "DanceFlex" to the disco-era "MirrorStride,"
-          FootElegance&apos;s innovative designs have left an indelible mark on
-          fashion history. Today, the Footworthy family legacy lives on, with
-          each pair of FootElegance shoes a testament to a century-long
-          commitment to comfort, style, and a touch of whimsy.
+          roaring twenties&apos; &quot;DanceFlex&quot; to the disco-era
+          &quot;MirrorStride,&quot; FootElegance&apos;s innovative designs have
+          left an indelible mark on fashion history. Today, the Footworthy
+          family legacy lives on, with each pair of FootElegance shoes a
+          testament to a century-long commitment to comfort, style, and a touch
+          of whimsy.
         </p>
       </div>
 
